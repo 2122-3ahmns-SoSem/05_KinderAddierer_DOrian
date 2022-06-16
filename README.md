@@ -9,7 +9,7 @@ Umsetzung: Das Spiel hat drei Runden welche verschiedene Schwierigkeits grade ha
 
 Start:
 In der Startsequenz gibt es mehrere auswahlmöglichkeiten, die erste wäre: den eigenen Namen in das vorgegebene Feld einzu tippen und loszulegen.
-Die zweite Vaariante ist es eines der 3 Vorgegebenen Tiere auszuwählen und dann zu starten.
+Die zweite Vaariante ist es eines der 3 Vorgegebenen Characktäre auszuwählen und dann zu starten.
 
 Runde 1: In Runde 1 werden randomized Numbers verwendet wir haben hier 2 flexible summanden und eine flexible Summe. Veranschaulicht wird das ganze mit Marinkäfer, das dient dazu dass man ein gefühl für mengen bekommt und wie diese aussehen. 
   Marinkäfer: es gibt ca 30 Verschiedene Flügelblätter des Marinkäfers mit jeweils 30 Random generierten Punkten auf dem Flügel, diese werden per drag and drop auf den     marin käfer platzier, ob summand oder summer das system ist das selbe
